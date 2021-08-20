@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.title-container{
+    border: 1px solid #fff;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+}
+.title-container:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 0.5s all ease;
+    box-shadow: 5px 10px 0 0 ;
+}
+.body-container{
+    border: 1px solid #fff;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 10px;
+}
+.body-container:hover{
+    box-shadow: 5px 10px 0 0 ;
+}
